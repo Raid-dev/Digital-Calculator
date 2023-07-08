@@ -1,2 +1,2 @@
-# calculator
-Html Css JavaScript program to display a calculator
+# Calculator
+Well designed andsoft featured calculator program by using HTML CSS JavaScript 
